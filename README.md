@@ -1,7 +1,7 @@
-# B012ED deface
+# asacyber deface
 
-What is B012ED deface tools?<br>
-B012ED deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
+What is asacyber deface tools?<br>
+asacyber deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
 **how to install and usage:**
@@ -24,3 +24,5 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `python def.py`
 
 **NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'cyberexfade.txt' and enter the target url
+
+* `Maaf Bang Saya Lakukan Ini Gara² Cewek hmm`
