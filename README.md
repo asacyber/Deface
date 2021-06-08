@@ -23,6 +23,4 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `cd deface`
 * `python def.py`
 
-**NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'target.txt' and enter the target url
-
-
+**NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'cyberexfade.txt' and enter the target url
